@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: Probably [|c544AAAFFController mage|r]
+## Notes: Ultimate pvp mage
+## Author: Controller
+## Version 7.1.5.1
+## Dependencies: Probably
+
+# Rotations
+libs\abilities.lua
+rotations\Mage\Fire.lua
+rotations\Mage\Frost.lua
+rotations\Warrior\ArmsPvP.lua
